@@ -31,7 +31,7 @@ Four end-to-end machine learning projects on real clinical biomedical data — s
 
 - **Dataset:** Montgomery County Chest X-Ray — 138 images with left/right lung masks
 - **Approach:** U-Net built from scratch (no pretrained weights) — encoder/decoder with skip connections, trained on grayscale X-rays with combined BCE + Dice loss
-- **Results:** 0.93 val IoU
+- **Results:** 0.93 val IoU, BCE + Dice loss
 - **Stack:** Python, PyTorch, Gradio, HuggingFace Spaces
 
 ## Skills Demonstrated
