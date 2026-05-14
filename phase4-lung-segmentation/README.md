@@ -48,6 +48,7 @@ Built a U-Net segmentation model from scratch to identify and mask lung regions 
 | Metric | Value |
 |---|---|
 | Val IoU | 0.93 |
+| Val Loss | 0.12 |
 | Loss function | BCE + Dice |
 | Epochs | 30 |
 | Optimizer | Adam + ReduceLROnPlateau |
